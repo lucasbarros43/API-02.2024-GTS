@@ -22,7 +22,7 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | 02/04/2024 | concluido| [Ver Relatório](https://github.com/lucasbarros43/API-012024-GTS/blob/main/Sprint%204/documento/Relat%C3%B3rio%20de%20Projeto%20Integrador%20-%2001.2024%20GPI.pdf) | 
+|Kick Off Geral | 02/04/2024 | concluido| [Ver Relatório](https://github.com/lucasbarros43/API-012024-GTS/blob/main/Sprint%204/documento/Relat%C3%B3rio%20de%20Projeto%20Integrador%20-%2001.2024%20GPI.pdf) | 
 |01 | 14/04/2024 | concluido| [Ver Relatório](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Flucasbarros43%2FAPI-012024-GTS%2Fmain%2FSprint%25201%2Fdocumento%2FRelat%25C3%25B3rio%2520do%2520projeto%2520integrador%2520-%2520GTS%2520Group.docx&wdOrigin=BROWSELINK) | 
 |02|  05/05/2024| concluído |[Ver Relatório](https://github.com/lucasbarros43/API-012024-GTS/blob/main/Sprint%204/documento/Relat%C3%B3rio%20de%20Projeto%20Integrador%20-%2001.2024%20GPI.pdf) | 
 |03| 26/05/2024 | concluído |[Ver Relatório](https://github.com/lucasbarros43/API-012024-GTS/blob/main/Sprint%204/documento/Relat%C3%B3rio%20de%20Projeto%20Integrador%20-%2001.2024%20GPI.pdf) | 
