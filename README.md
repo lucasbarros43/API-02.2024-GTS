@@ -104,7 +104,7 @@ Clique no link para ser direcionado para o o cronograma > (https://github.com/us
 
 
 ## Burndown
-![burndown github](https://github.com/lucasbarros43/API-012024-GTS/assets/162647577/36ca4d8b-bcae-441b-8fc8-44168218083a)
+![burndown](https://github.com/user-attachments/assets/9fbc0744-4406-40fd-bbf8-6c8a175d9bf3)
 
 
 ## Sprint 1 - SWOT
