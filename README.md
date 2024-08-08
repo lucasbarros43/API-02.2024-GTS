@@ -100,13 +100,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 Clique no link para ser direcionado para o o cronograma > (https://github.com/users/lucasbarros43/projects/8)]
 
 ## Backlog do produto
-![git 1](https://github.com/lucasbarros43/API-012024-GTS/assets/162647577/22cdbedd-29ec-4775-afd2-2310f94e3886)
-
-![git 2](https://github.com/lucasbarros43/API-012024-GTS/assets/162647577/38a8ee5f-da4a-4aa4-ab35-d607c79df25a)
-
-![git 3](https://github.com/lucasbarros43/API-012024-GTS/assets/162647577/96b399f1-e72d-4348-bb14-2da183391e8a)
-
-![sprint 4 crono atualizado](https://github.com/lucasbarros43/API-012024-GTS/assets/162647577/0a355c82-f220-4487-a47f-bac356214b8f)
+![backlog](https://github.com/user-attachments/assets/8bd0481c-be7b-48cb-8f22-47dd04dca2af)
 
 
 ## Burndown
