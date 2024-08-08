@@ -111,16 +111,19 @@ Clique no link para ser direcionado para o o cronograma > (https://github.com/us
 ![image](https://github.com/user-attachments/assets/e622b5d5-fc01-4195-9645-37fd2dd0073c)
 
 
-## Sprint 2 - Previsão de demanda
-![crono sprint 2](https://github.com/lucasbarros43/API-012024-GTS/assets/162647577/3000d7b7-6335-4286-b3da-756db33a169e)
+## Sprint 2
+![image](https://github.com/user-attachments/assets/f054a61c-fa08-4193-a052-e9903b4621f9)
+
 
       
-## Sprint 3 - Curva ABC
-![crono sprint 3](https://github.com/lucasbarros43/API-012024-GTS/assets/162647577/94dff335-6f75-49cb-8d24-5ae6ac3b6671)
+## Sprint 3
+![image](https://github.com/user-attachments/assets/f9cbdaa7-4d04-47e8-a3c2-48dfd650fff8)
+
 
       
-## Sprint 4 - CANVAS
-![crono sprint 4](https://github.com/lucasbarros43/API-012024-GTS/assets/162647577/52a295ed-d256-4095-a2c7-cd197d791493)
+## Sprint 4
+![image](https://github.com/user-attachments/assets/2a49edac-5e9f-4724-b70b-c987b4c6b603)
+
 
 
 
