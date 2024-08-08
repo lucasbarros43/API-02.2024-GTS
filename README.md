@@ -107,8 +107,9 @@ Clique no link para ser direcionado para o o cronograma > (https://github.com/us
 ![burndown](https://github.com/user-attachments/assets/9fbc0744-4406-40fd-bbf8-6c8a175d9bf3)
 
 
-## Sprint 1 - SWOT
-![cronograma sprint 1](https://github.com/lucasbarros43/API-012024-GTS/assets/162647577/515ccd76-6dfc-4a8d-91ee-ddf617e34bea)
+## Sprint 1
+![image](https://github.com/user-attachments/assets/e622b5d5-fc01-4195-9645-37fd2dd0073c)
+
 
 ## Sprint 2 - Previsão de demanda
 ![crono sprint 2](https://github.com/lucasbarros43/API-012024-GTS/assets/162647577/3000d7b7-6335-4286-b3da-756db33a169e)
