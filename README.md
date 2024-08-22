@@ -40,9 +40,7 @@ Sprint | Início | Término | Status| Histórico|
 
 # Equipe
 
-<p align="center">
- <img src="https://github.com/lucasbarros43/API-012024-GTS/assets/162647577/50cc8e1b-fa07-47c9-93e9-828c8267483b" width="100%"/>
-</p>
+![image](https://github.com/user-attachments/assets/90c57428-2823-45b6-92bf-11e0b71a1d5c)
 
 # Objetivo do Projeto
 Este projeto tem como objetivo olhar para o futuro da DOCE SABOR e garantir a realização de vendas de produtos. Através de uma equipe bem relacionada, iremos analisar todos os seus pontos fortes e realizar planos estratégicos para sua empresa, desenvolvendo seu potencial, atingindo suas metas, além de ideias passadas, atribuindo assim, novos recursos para um futuro brilhante.
