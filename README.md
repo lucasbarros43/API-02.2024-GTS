@@ -45,6 +45,9 @@ Sprint | Início | Término | Status| Histórico|
 # Objetivo do Projeto
 Este projeto tem como objetivo olhar para o futuro da DOCE SABOR e garantir a realização de vendas de produtos. Através de uma equipe bem relacionada, iremos analisar todos os seus pontos fortes e realizar planos estratégicos para sua empresa, desenvolvendo seu potencial, atingindo suas metas, além de ideias passadas, atribuindo assim, novos recursos para um futuro brilhante.
 
+![image](https://github.com/user-attachments/assets/dfbda0fb-1b98-4839-9518-26e262a50c4a)
+
+
 # Funcionalidades e Demonstrações das Sprints
 
 ## Sprint 1
@@ -93,6 +96,9 @@ Encorajamos a busca por soluções criativas e inovadoras para os desafios, apro
 
 ## Cronograma
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsavel por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
+
+![image](https://github.com/user-attachments/assets/a1b9ab25-c499-4544-84bf-e3a09c6f3e52)
+
 
 #### Cronograma das Sprints:
 Clique no link para ser direcionado para o o cronograma > https://github.com/users/lucasbarros43/projects/9
