@@ -44,16 +44,27 @@ Sprint | Início | Término | Status| Histórico|
 
 
 # Objetivo do Projeto
+
 Tema do API: Concepção de um dispositivo de Tecnologia Assistiva para pessoas com dificuldades de movimentação/locomoção
+
 O desenvolvimento do tema deverá seguir as seguintes etapas:
+
 Sprint 1: Definição do produto (09/09 a 29/09)
+
 Sprint 2: Projeto Informacional do produto (30/09 a 20/10)
+
 Sprint 3: Projeto Conceitual do produto (21/10 a 10/11)
+
 Sprint 4: Projeto Detalhado do produto (11/11 a 01/12)
+
 Feira de soluções: 12/12
+
 Requisitos:
+
 A metodologia de projeto a ser utilizada deverá ser a metodologia ágil Scrum. 
+
 As entregas das sprints deverão ser feitas na forma de vídeos.
+
 Não haverá produção de protótipo físico, apenas documentação.
 
 ![image](https://github.com/user-attachments/assets/dfbda0fb-1b98-4839-9518-26e262a50c4a)
@@ -62,28 +73,16 @@ Não haverá produção de protótipo físico, apenas documentação.
 # Funcionalidades e Demonstrações das Sprints
 
 ## Sprint 1
-[![SPRINT 1](https://img.youtube.com/vi/NoLdCKkcR6A/0.jpg)](https://youtu.be/NoLdCKkcR6A)
+[![SPRINT 1](https://img.youtube.com/vi/hf5xy8rQ-2E&t=42s/0.jpg)](https://youtu.be/hf5xy8rQ-2E&t=42s)
 
 ## Sprint 2
 
-
-[![SPRINT 1](https://img.youtube.com/vi/x6ZN4ay-oGw/0.jpg)](https://youtu.be/x6ZN4ay-oGw)
-
 ## Sprint 3
-
-
-[![SPRINT 3](https://img.youtube.com/vi/Z3XodYZuZ-8/0.jpg)](https://youtu.be/Z3XodYZuZ-8)
-
-
 
 ## Sprint 4
 
-
-[![SPRINT 4](https://img.youtube.com/vi/Z9Q2fCe14A8/0.jpg)](https://youtu.be/Z9Q2fCe14A8)
-
-
 ## Apresentação final (se necessario)
-Vídeo com a apresentação final da API do "1º Semestre/2024" em Gestão da Produção Industrial
+Vídeo com a apresentação final da API do "2º Semestre/2024" em Gestão da Produção Industrial
 
 [![feira](https://img.youtube.com/vi/RmM45v9na-U/0.jpg)](https://youtu.be/RmM45v9na-U)
 ![imagem feira gts](https://github.com/lucasbarros43/API-012024-GTS/assets/162647577/4e9aeb2e-8d30-46e3-ba8c-d5063bd4ee99)
