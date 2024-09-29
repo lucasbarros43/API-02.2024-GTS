@@ -40,7 +40,8 @@ Sprint | Início | Término | Status| Histórico|
 
 # Equipe
 
-![image](https://github.com/user-attachments/assets/90c57428-2823-45b6-92bf-11e0b71a1d5c)
+![image](https://github.com/user-attachments/assets/9060224d-77b6-4db4-a66c-e20dfd6e42d0)
+
 
 # Objetivo do Projeto
 Tema do API: Concepção de um dispositivo de Tecnologia Assistiva para pessoas com dificuldades de movimentação/locomoção
