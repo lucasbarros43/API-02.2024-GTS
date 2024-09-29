@@ -67,8 +67,6 @@ As entregas das sprints deverão ser feitas na forma de vídeos.
 
 Não haverá produção de protótipo físico, apenas documentação.
 
-![image](https://github.com/user-attachments/assets/dfbda0fb-1b98-4839-9518-26e262a50c4a)
-
 
 # Funcionalidades e Demonstrações das Sprints
 
