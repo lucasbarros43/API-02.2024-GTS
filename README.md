@@ -43,7 +43,17 @@ Sprint | Início | Término | Status| Histórico|
 ![image](https://github.com/user-attachments/assets/90c57428-2823-45b6-92bf-11e0b71a1d5c)
 
 # Objetivo do Projeto
-Este projeto tem como objetivo olhar para o futuro da DOCE SABOR e garantir a realização de vendas de produtos. Através de uma equipe bem relacionada, iremos analisar todos os seus pontos fortes e realizar planos estratégicos para sua empresa, desenvolvendo seu potencial, atingindo suas metas, além de ideias passadas, atribuindo assim, novos recursos para um futuro brilhante.
+Tema do API: Concepção de um dispositivo de Tecnologia Assistiva para pessoas com dificuldades de movimentação/locomoção
+O desenvolvimento do tema deverá seguir as seguintes etapas:
+Sprint 1: Definição do produto (09/09 a 29/09)
+Sprint 2: Projeto Informacional do produto (30/09 a 20/10)
+Sprint 3: Projeto Conceitual do produto (21/10 a 10/11)
+Sprint 4: Projeto Detalhado do produto (11/11 a 01/12)
+Feira de soluções: 12/12
+Requisitos:
+A metodologia de projeto a ser utilizada deverá ser a metodologia ágil Scrum. 
+As entregas das sprints deverão ser feitas na forma de vídeos.
+Não haverá produção de protótipo físico, apenas documentação.
 
 ![image](https://github.com/user-attachments/assets/dfbda0fb-1b98-4839-9518-26e262a50c4a)
 
