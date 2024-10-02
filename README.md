@@ -71,7 +71,7 @@ Não haverá produção de protótipo físico, apenas documentação.
 # Funcionalidades e Demonstrações das Sprints
 
 ## Sprint 1
-[![SPRINT 1](https://img.youtube.com/vi/hf5xy8rQ-2E/0.jpg)](https://youtu.be/hf5xy8rQ-2E)
+[![SPRINT 1](https://img.youtube.com/vi/zFTDYML8zxc/0.jpg)](https://youtu.be/zFTDYML8zxc)
 
 ## Sprint 2
 
