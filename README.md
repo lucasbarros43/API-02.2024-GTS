@@ -109,19 +109,23 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 Clique no link para ser direcionado para o o cronograma > https://github.com/users/lucasbarros43/projects/9
 
 ## Backlog do produto
-![backlog](https://github.com/user-attachments/assets/8bd0481c-be7b-48cb-8f22-47dd04dca2af)
+![image](https://github.com/user-attachments/assets/9b282cd6-5e66-48fb-a7e6-4b86ba792d1f)
+
 
 
 ## Burndown
-![burndown](https://github.com/user-attachments/assets/9fbc0744-4406-40fd-bbf8-6c8a175d9bf3)
+![image](https://github.com/user-attachments/assets/620995cd-4959-4b4c-b72b-a8a9ee1ab81d)
+
 
 
 ## Sprint 1
-![image](https://github.com/user-attachments/assets/e622b5d5-fc01-4195-9645-37fd2dd0073c)
+![image](https://github.com/user-attachments/assets/74c574f0-f78e-4a8e-acf8-d3546f32b2d2)
+
 
 
 ## Sprint 2
-![image](https://github.com/user-attachments/assets/f054a61c-fa08-4193-a052-e9903b4621f9)
+![image](https://github.com/user-attachments/assets/4a5c8782-dc28-4588-9b9b-7ec88fbc816e)
+
 
 
       
@@ -210,7 +214,6 @@ Desenvolvimento de tecnologias
 |Scrum Master| Lucas Renê | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/lucasbarros43)|
 |Team Member| Anderson Camargo | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Andersoncamargo28)|
 |Team Member| Gabriel Martins | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Gabrielmart99)|
-|Team Member| Maria Cristina | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]()|
 |Team Member| Matheus Naka | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]()|
 |Team Member| Thiago Moraes | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]()|
 
