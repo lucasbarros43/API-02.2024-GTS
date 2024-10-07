@@ -215,7 +215,7 @@ Desenvolvimento de tecnologias
 |Team Member| Anderson Camargo | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Andersoncamargo28)|
 |Team Member| Gabriel Martins | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Gabrielmart99)|
 |Team Member| Matheus Naka | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]
-|Team Member| Thiago Moraes | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]()|[![GitHub Badge]([https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white](https://github.com/ThiagoOLMoraes)]
+|Team Member| Thiago Moraes | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]()|[![GitHub Badge]([https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white](https://github.com/ThiagoOLMoraes)|
 
 
 
