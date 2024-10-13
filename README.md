@@ -104,8 +104,6 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 https://github.com/users/lucasbarros43/projects/9
 
-#### Cronograma das Sprints:
-Clique no link para ser direcionado para o o cronograma > https://github.com/users/lucasbarros43/projects/9
 
 ## Backlog do produto
 ![image](https://github.com/user-attachments/assets/9b282cd6-5e66-48fb-a7e6-4b86ba792d1f)
