@@ -107,7 +107,8 @@ https://github.com/users/lucasbarros43/projects/9
 
 
 ## Backlog do produto
-![image](https://github.com/user-attachments/assets/bd2c44a7-0d47-4507-9854-78dffbbda344)
+![image](https://github.com/user-attachments/assets/87238135-c243-4953-8004-87f22315fa54)
+
 
 
 
