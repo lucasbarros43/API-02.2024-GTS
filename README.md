@@ -114,7 +114,8 @@ https://github.com/users/lucasbarros43/projects/9
 
 
 ## Burndown
-![image](https://github.com/user-attachments/assets/8bea920d-f960-4d07-be2d-dfa6632294cd)
+![image](https://github.com/user-attachments/assets/e9c31320-76ff-447b-964a-8b86b1321795)
+
 
 
 
