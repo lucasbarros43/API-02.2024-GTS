@@ -85,7 +85,7 @@ Vídeo com a apresentação do CANVAS para a disciplina de "Liderança e Empreen
 
 [![CANVAS](https://img.youtube.com/vi/sYGERoXXypk/0.jpg)](https://youtu.be/sYGERoXXypk)
 
-Vídeo com a apresentação do CANVAS para a disciplina de "Liderança e Empreendedorismo" sobre API do "2º Semestre/2024" em Gestão da Produção Industrial.
+Vídeo com a apresentação do PITCH para a disciplina de "Liderança e Empreendedorismo" sobre API do "2º Semestre/2024" em Gestão da Produção Industrial.
 
 [![PITCH](https://img.youtube.com/vi/WTc2FPjAoD8/0.jpg)](https://youtu.be/WTc2FPjAoD8)
 
