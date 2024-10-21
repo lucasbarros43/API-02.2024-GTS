@@ -74,7 +74,7 @@ Não haverá produção de protótipo físico, apenas documentação.
 [![SPRINT 1](https://img.youtube.com/vi/zFTDYML8zxc/0.jpg)](https://youtu.be/zFTDYML8zxc)
 
 ## Sprint 2
-[![SPRINT 2](https://img.youtube.com/vi/LsFjmy33kNA&t=11s/0.jpg)](https://LsFjmy33kNA&t=11s)
+[![SPRINT 1](https://img.youtube.com/vi/LsFjmy33kNA/0.jpg)](https://youtu.be/LsFjmy33kNA)
 
 ## Sprint 3
 
