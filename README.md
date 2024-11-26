@@ -84,7 +84,7 @@ Não haverá produção de protótipo físico, apenas documentação.
 ## Apresentações adicionais (se necessario)
 Vídeo com a apresentação do CANVAS para a disciplina de "Liderança e Empreendedorismo" sobre API do "2º Semestre/2024" em Gestão da Produção Industrial.
 
-[![CANVAS](https://img.youtube.com/vi/sYGERoXXypk/0.jpg)](https://youtu.be/sYGERoXXypk)
+[![CANVAS](https://img.youtube.com/vi/6nFBeLzsHls/0.jpg)](https://youtu.be/6nFBeLzsHls)
 
 Vídeo com a apresentação do PITCH para a disciplina de "Liderança e Empreendedorismo" sobre API do "2º Semestre/2024" em Gestão da Produção Industrial.
 
