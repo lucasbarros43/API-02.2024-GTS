@@ -90,6 +90,14 @@ Vídeo com a apresentação do PITCH para a disciplina de "Liderança e Empreend
 
 [![PITCH](https://img.youtube.com/vi/0UsllOBsK1k/0.jpg)](https://youtu.be/0UsllOBsK1k)
 
+Padlet (Mural de Apresentação Internacional)
+
+![image](https://github.com/user-attachments/assets/e86e5c21-d9f8-4722-94fb-b8f0f9d4b6a7)
+
+![image](https://github.com/user-attachments/assets/3b95a13b-3e51-47b8-8fbb-c064d628055f)
+
+
+
 ## Apresentação final (se necessario)
 Vídeo com a apresentação final na "Feira de Soluções X" da API do "2º Semestre/2024" em Gestão da Produção Industrial
 
