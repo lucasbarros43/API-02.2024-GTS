@@ -123,31 +123,11 @@ https://github.com/users/lucasbarros43/projects/9
 
 ![image](https://github.com/user-attachments/assets/ee061d8e-f365-403a-890f-6cae76ef1ffc)
 
+![image](https://github.com/user-attachments/assets/e59cd0fb-d17f-4b3a-92c3-188e0dd9f1d8)
+
 
 ## Burndown
-![image](https://github.com/user-attachments/assets/56ff7b8d-cb47-40d5-bf54-d04578944511)
-
-
-
-## Sprint 1
-![image](https://github.com/user-attachments/assets/74c574f0-f78e-4a8e-acf8-d3546f32b2d2)
-
-
-
-## Sprint 2
-![image](https://github.com/user-attachments/assets/4a5c8782-dc28-4588-9b9b-7ec88fbc816e)
-
-
-
-      
-## Sprint 3
-![image](https://github.com/user-attachments/assets/f9cbdaa7-4d04-47e8-a3c2-48dfd650fff8)
-
-
-      
-## Sprint 4
-![image](https://github.com/user-attachments/assets/2a49edac-5e9f-4724-b70b-c987b4c6b603)
-
+![image](https://github.com/user-attachments/assets/f6114377-92df-40bd-8312-66c2ccbefe1c)
 
 
 
