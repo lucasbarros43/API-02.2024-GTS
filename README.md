@@ -117,16 +117,15 @@ https://github.com/users/lucasbarros43/projects/9
 
 
 ## Backlog do produto
-![image](https://github.com/user-attachments/assets/87238135-c243-4953-8004-87f22315fa54)
+![image](https://github.com/user-attachments/assets/92cea2f4-b914-4358-aeab-28ad709ee36a)
 
+![image](https://github.com/user-attachments/assets/309f16df-6a1f-40d1-8b88-0191e7603e3c)
 
-
+![image](https://github.com/user-attachments/assets/ee061d8e-f365-403a-890f-6cae76ef1ffc)
 
 
 ## Burndown
-![image](https://github.com/user-attachments/assets/e9c31320-76ff-447b-964a-8b86b1321795)
-
-
+![image](https://github.com/user-attachments/assets/56ff7b8d-cb47-40d5-bf54-d04578944511)
 
 
 
