@@ -98,7 +98,7 @@ Vídeo com a apresentação final na "Feira de Soluções X" da API do "2º Seme
 
 ### Produto 
 
-![produto sprint](https://github.com/lucasbarros43/API-012024-GTS/assets/162647577/6e93df51-4867-40a8-8ce3-1d7157d88b58)
+In Process...
 
 
 ### Tecnológias Específicas/Apoio
