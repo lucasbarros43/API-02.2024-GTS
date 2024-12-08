@@ -105,14 +105,15 @@ Vídeo com a apresentação final na "Feira de Soluções X" da API do "2º Seme
 
 ## Tecnologias Utilizadas
 
-### Produto 
+### Produto (Ferramentas de Gestão)
 
-In Process...
+![image](https://github.com/user-attachments/assets/f331323c-d7d4-47fc-b84d-9e612613e22c)
 
 
 ### Tecnológias Específicas/Apoio
 
-![tecnologias](https://github.com/lucasbarros43/API-012024-GTS/assets/162647577/ffc713af-882f-4e1e-b55e-cf8ab67ce213)
+![image](https://github.com/user-attachments/assets/d9f02a52-7950-435d-8a49-39521775bd7e)
+
 
 ### Mindset Digital
 Encorajamos a busca por soluções criativas e inovadoras para os desafios, aproveitando as oportunidades digitais. Desenvolvendo tambem a capacidade de ser ágil e flexível, respondendo rapidamente às mudanças e oportunidades apresentadas.
