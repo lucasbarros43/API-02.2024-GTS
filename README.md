@@ -80,6 +80,7 @@ Não haverá produção de protótipo físico, apenas documentação.
 [![SPRINT 3](https://img.youtube.com/vi/7NP-ytakgUM/0.jpg)](https://youtu.be/7NP-ytakgUM)
 
 ## Sprint 4
+[![SPRINT 3](https://img.youtube.com/vi/-alsixpodGc/0.jpg)](https://youtu.be/-alsixpodGc)
 
 ## Apresentações adicionais (se necessario)
 Vídeo com a apresentação do CANVAS para a disciplina de "Liderança e Empreendedorismo" sobre API do "2º Semestre/2024" em Gestão da Produção Industrial.
