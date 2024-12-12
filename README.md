@@ -102,6 +102,7 @@ Padlet (Mural de Apresentação Internacional)
 ## Apresentação final (se necessario)
 Vídeo com a apresentação final na "Feira de Soluções X" da API do "2º Semestre/2024" em Gestão da Produção Industrial
 
+[![FEIRA DE SOLUÇÕES X](https://img.youtube.com/vi/Z9zPXgjjw64/0.jpg)](https://youtu.be/Z9zPXgjjw64)
 
 ## Tecnologias Utilizadas
 
